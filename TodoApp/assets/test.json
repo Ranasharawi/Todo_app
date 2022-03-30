@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 2529,
+  "articles": [
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Mat Smith",
+    "title": "The Morning After: You should clean your AirPods",
+    "description": "We’re approaching spring-cleaning season, and tech sometimes needs a refresh, too. True wireless earbuds — and most wearable devices — can accumulate a worrying amount of dirt, oils and, well, detritus. So how do you clean them without breaking, damaging or s…",
+    "url": "https://www.engadget.com/the-morning-after-how-to-clean-airpods-iphone-se-review-111508888.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/f129d2d1-a148-11ec-9fbf-47a6cc59fb02",
+    "publishedAt": "2022-03-15T11:15:08Z",
+    "content": "Were approaching spring-cleaning season, and tech sometimes needs a refresh, too. True wireless earbuds and most wearable devices can accumulate a worrying amount of dirt, oils and, well, detritus. S… [+4006 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Kris Naudus",
+    "title": "How to recycle your used and unwanted gadgets",
+    "description": "You're probably used to sorting your garbage into bins: green for paper or blue for plastic and glass. But when it comes to electronics, we're still used to selling those off or tossing them into the trash heap. Unfortunately, our gadget addiction has real co…",
+    "url": "https://www.engadget.com/2018-04-21-how-to-recycle-gadgets-electronics-earth-day.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Xj6Sph5OF6Ro392tbsjfKA--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://o.aolcdn.com/hss/storage/midas/89756aa941d51bc1a9244275afa7f0ff/206313218/phonez-ed.jpg",
+    "publishedAt": "2022-03-15T13:45:10Z",
+    "content": "You're probably used to sorting your garbage into bins: green for paper or blue for plastic and glass. But when it comes to electronics, we're still used to selling those off or tossing them into the… [+10125 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Reuters Editorial",
+    "title": "BVTV: Supply chain vs. China - Reuters",
+    "description": "A Shenzhen lockdown will aggravate disruptions for firms like Apple. Robert Cyran explains why supply chain disruptions impact inflation and hurt the sales of goods, but the picture is still bright for American restaurants and travel.",
+    "url": "https://www.reuters.com/video/watch/idRCV00AUJA",
+    "urlToImage": "https://static.reuters.com/resources/r/?d=20220315&i=RCV00AUJA&r=RCV00AUJA&t=2",
+    "publishedAt": "2022-03-15T19:48:05Z",
+    "content": "Posted \r\nA Shenzhen lockdown will aggravate disruptions for firms like Apple. Robert Cyran explains why supply chain disruptions impact inflation and hurt the sales of goods, but the picture is still… [+43 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Shenzhen lockdown will not have a big impact on iPhone production -J.P.Morgan - Reuters.com",
+    "description": "Apple Inc's <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> iPhone production will not take a big hit from Foxconn's suspension of operations in the Chinese city of Shenzen, which is facing fresh curbs to contain a COVID outbre…",
+    "url": "https://www.reuters.com/technology/shenzhen-lockdown-will-not-have-big-impact-iphone-production-jpmorgan-2022-03-15/",
+    "urlToImage": "https://www.reuters.com/resizer/vzJqiTH0-yI0UpP114pCpQtE_WI=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OGOGO4WUPBNG3NGAOIC556QFF4.jpg",
+    "publishedAt": "2022-03-15T10:08:00Z",
+    "content": "March 15 (Reuters) - Apple Inc's (AAPL.O) iPhone production will not take a big hit from Foxconn's suspension of operations in the Chinese city of Shenzen, which is facing fresh curbs to contain a CO… [+1460 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Yum China, BYD say China's COVID curbs have impacted operations - Reuters.com",
+    "description": "Chinese businesses from automaker BYD <a href=\"https://www.reuters.com/companies/002594.SZ\" target=\"_blank\">(002594.SZ)</a> to KFC operator Yum China <a href=\"https://www.reuters.com/companies/9987.HK\" target=\"_blank\">(9987.HK)</a> say their operations have a…",
+    "url": "https://www.reuters.com/world/china/yum-china-byd-say-chinas-covid-curbs-have-impacted-operations-2022-03-15/",
+    "urlToImage": "https://www.reuters.com/resizer/NZcE7a2JaanwVIf9TaGtOXKfEso=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XRWW2CACEFKI7MZW7RSZLCFBRQ.jpg",
+    "publishedAt": "2022-03-15T06:14:00Z",
+    "content": "SHANGHAI, March 15 (Reuters) - Chinese businesses from automaker BYD (002594.SZ) to KFC operator Yum China (9987.HK) say their operations have already been hit by the country's latest COVID-19 curbs,… [+1769 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "With Toyota as partner, Mazda hopes to jump-start US market - Reuters.com",
+    "description": "A decade after Mazda Motor's <a href=\"https://www.reuters.com/companies/7261.T\" target=\"_blank\">(7261.T)</a> cars disappeared from Ford Motor's <a href=\"https://www.reuters.com/companies/F.N\" target=\"_blank\">(F.N)</a> factory floors in Michigan, the Japanese …",
+    "url": "https://www.reuters.com/business/autos-transportation/with-toyota-partner-mazda-hopes-jump-start-us-market-2022-03-15/",
+    "urlToImage": "https://www.reuters.com/resizer/24LrC3eexaP4-PxIgpSesPMh6Pg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ODWYBAYQOJKEXOKP5AD76IWE6M.jpg",
+    "publishedAt": "2022-03-15T06:50:00Z",
+    "content": "TOKYO, March 15 (Reuters) - A decade after Mazda Motor's (7261.T) cars disappeared from Ford Motor's (F.N) factory floors in Michigan, the Japanese automaker is once again building in the United Stat… [+3214 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "What you need to know about the coronavirus right now - Reuters",
+    "description": "What you need to know about the coronavirus right now  Reuters",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-you-need-know-about-coronavirus-right-now-2022-03-15/",
+    "urlToImage": "https://www.reuters.com/resizer/CU_oTPPuguTOnQllarwkaZ4QZsE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XNOWQGZHSNMXNMM5JXC6C7T7G4.jpg",
+    "publishedAt": "2022-03-15T13:11:00Z",
+    "content": "March 15 (Reuters) - Here's what you need to know about the coronavirus right now:\r\nChina's soaring COVID infections fuel concern about cost of containment\r\nChina posted a steep jump in daily COVID-1… [+3357 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Guardian"
+    },
+    "author": "Frances Ryan",
+    "title": "‘TV let me remember what it is to be human’: the shows that got the UK through Covid shielding",
+    "description": "From Wandavision to The Tourist: the television programmes making millions of shielders’ lives bearable as they continue to weigh up isolation and safetyIt is March 2020 and a new illness called “coronavirus” means 3.7 million people with pre-existing health …",
+    "url": "https://amp.theguardian.com/culture/2022/mar/15/gardeners-world-readers-favourite-shielding-tv-twenty-twelve-tourist-isolation-safety",
+    "urlToImage": "https://i.guim.co.uk/img/media/cc3dce455e9837729714a2022b15fa7e2c6e2a58/0_57_4285_2572/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61fd5dd3c54351e19949ae637fe6fdcc",
+    "publishedAt": "2022-03-15T16:31:22Z",
+    "content": "It is March 2020 and a new illness called coronavirus means 3.7 million people with pre-existing health conditions in England are being told by the government to shield at home. As someone with weak … [+7078 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Guardian"
+    },
+    "author": "Hannah Clugston",
+    "title": "Survey II review – ‘like a David Lynch riff on my grandma’s lounge’",
+    "description": "Site Gallery, SheffieldFrom a cake flattened by a paving stone to a bed that is the stuff of nightmares, this group show of new artists seems affected by lockdown-induced cabin feverDuring the hazy days of lockdown No 1, when standing still in the world was a…",
+    "url": "https://amp.theguardian.com/artanddesign/2022/mar/15/survey-ii-review-site-gallery-sheffield-jerwood",
+    "urlToImage": "https://i.guim.co.uk/img/media/a9221ea5c6a436dc70b7747c5fcee54163a43e61/0_84_2500_1500/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9f6e03c5d25dc9ca5b0dc8f6e767b506",
+    "publishedAt": "2022-03-15T12:45:37Z",
+    "content": "During the hazy days of lockdown No 1, when standing still in the world was a novelty, the home took on a new fascination. The way light crept round the curtain rail, the slight dip in the entrance t… [+4743 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Some Apple Park Employees Evacuated Due to Possible Hazmat Situation",
+    "description": "A small number of Apple employees appear to have been evacuated from the Apple Park campus in Cupertino, California, according to NBC Bay Area. There is little information at this time, but the news site says that a \"portion\" of the campus was evacuated.\n\n\n\n\n…",
+    "url": "https://www.macrumors.com/2022/03/15/apple-park-employees-evacuated/",
+    "urlToImage": "https://images.macrumors.com/t/Pgwmsjfv_bQaeOwoqs9ycsZ-sUM=/1775x/article-new/2022/03/apple-park-evacuation.jpg",
+    "publishedAt": "2022-03-15T21:12:29Z",
+    "content": "A small number of Apple employees appear to have been evacuated from the Apple Park campus in Cupertino, California, according to NBC Bay Area. There is little information at this time, but the news … [+345 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Stores Can Now Update Firmware on Second-Generation AirPods",
+    "description": "In late 2021, Apple Stores and Apple Authorized Service Providers gained access to a new \"AirPods Firmware Updater\" diagnostic tool for updating a customer's AirPods Pro to the latest firmware version when necessary.\n\n\n\n\n\nIn an internal memo today, obtained b…",
+    "url": "https://www.macrumors.com/2022/03/15/apple-stores-can-now-update-airpods-2-firmware/",
+    "urlToImage": "https://images.macrumors.com/t/7qfhTGUEYi_TcoaaZHLaX2zC-80=/2322x/article-new/2021/11/AirPods-Firmware-Feature.jpg",
+    "publishedAt": "2022-03-15T17:25:31Z",
+    "content": "In late 2021, Apple Stores and Apple Authorized Service Providers gained access to a new \"AirPods Firmware Updater\" diagnostic tool for updating a customer's AirPods Pro to the latest firmware versio… [+1030 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Lucky Customer Receives Mac Studio Days Ahead of Schedule",
+    "description": "The Mac Studio isn't set to launch until Friday, March 18, but a French Apple fan was able to secure his new machine today due to a store error. As relayed to Mac4Ever, an unnamed store gave the customer the ‌Mac Studio‌ early, and he has shared an initial ph…",
+    "url": "https://www.macrumors.com/2022/03/15/customer-receives-mac-studio-early/",
+    "urlToImage": "https://images.macrumors.com/t/byPGQ4sIZP0E2F807fyrCbG3suo=/1600x/article-new/2022/03/mac-studio-early-arrival.jpg",
+    "publishedAt": "2022-03-15T19:38:44Z",
+    "content": "The Mac Studio isn't set to launch until Friday, March 18, but a French Apple fan was able to secure his new machine today due to a store error. As relayed to Mac4Ever, an unnamed store gave the cust… [+1301 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Mitchel Broussard",
+    "title": "Deals: AirPods Max on Sale for $449 in Every Color ($100 Off)",
+    "description": "AirPods Max have returned to $449.00 in all colors on Amazon, down from $549.00. All models are in stock and ready to ship out today, but the Silver model's stock is beginning to run out as of writing.\n\n\n\nNote: MacRumors is an affiliate partner with some of t…",
+    "url": "https://www.macrumors.com/2022/03/15/deals-airpods-max-on-sale/",
+    "urlToImage": "https://images.macrumors.com/t/SDQET-Fvd42WkJBR4Nx-0zf-Pgk=/2500x/article-new/2021/06/AirPods-Max-Deal-Feature-Green.jpg",
+    "publishedAt": "2022-03-15T13:59:53Z",
+    "content": "AirPods Max have returned to $449.00 in all colors on Amazon, down from $549.00. All models are in stock and ready to ship out today, but the Silver model's stock is beginning to run out as of writin… [+879 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "watchOS 8.5 Fixes Mail Privacy Protection Loophole That Could Expose IP Addresses",
+    "description": "watchOS 8.5 fixes a security vulnerability in the Mail app that could leak a user's IP address when downloading remote content, security researchers have found.\n\n\n\n\n\nLast year, it emerged that Apple's Mail Privacy Protection feature was undermined by a lack o…",
+    "url": "https://www.macrumors.com/2022/03/15/watchos-8-5-fixes-mail-privacy-protection-loophole/",
+    "urlToImage": "https://images.macrumors.com/t/_iTSuaUG5Q2vZSYmKyJ16se2Nzk=/2250x/article-new/2021/06/ios15-mail-privacy-feature.jpg",
+    "publishedAt": "2022-03-15T13:42:40Z",
+    "content": "watchOS 8.5 fixes a security vulnerability in the Mail app that could leak a user's IP address when downloading remote content, security researchers have found.\r\nLast year, it emerged that Apple's Ma… [+2782 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Samsung's Galaxy Tab S8 Ultra vs. Apple's iPad Pro",
+    "description": "Samsung in February unveiled the Galaxy Tab S8 Ultra, a high-end tablet that's meant to outshine the iPad Pro with its 14.6-inch OLED display. In our latest YouTube video, we went hands-on with Samsung's Galaxy Tab S8 Ultra to see if the company has indeed cr…",
+    "url": "https://www.macrumors.com/2022/03/15/galaxy-tab-s8-ultra-vs-ipad-pro/",
+    "urlToImage": "https://images.macrumors.com/t/XiTnOjESylVWJSCXZe8O06UpeSw=/3840x/article-new/2022/03/samsung-tablet-main.jpg",
+    "publishedAt": "2022-03-15T21:23:47Z",
+    "content": "Samsung in February unveiled the Galaxy Tab S8 Ultra, a high-end tablet that's meant to outshine the iPad Pro with its 14.6-inch OLED display. In our latest YouTube video, we went hands-on with Samsu… [+3387 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "gdean@insider.com (Grace Dean)",
+    "title": "A McDonald's superfan chained himself to one of its restaurants in Moscow because he didn't want it to close",
+    "description": "Luka Safronov-Zatravkin chained himself to the doors of the restaurant in Moscow to protest the chain's decision to temporarily shut there.",
+    "url": "https://www.businessinsider.com/russia-mcdonalds-chained-to-restaurant-ukraine-fast-food-moscow-protest-2022-3",
+    "urlToImage": "https://i.insider.com/623067c4843ef30018e70bb7?width=1200&format=jpeg",
+    "publishedAt": "2022-03-15T10:49:50Z",
+    "content": "A McDonald's superfan chained himself to the doors of its oldest Russian restaurant to protest the chain's decision to temporarily shut its sites in the country, per multiple media reports.\r\n\"They do… [+1925 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "snagarajan@insider.com (Shalini Nagarajan)",
+    "title": "Oil tumbles 6% on hopes for Russia-Ukraine negotiations and as lockdowns in China threaten to hurt demand",
+    "description": "Russia-Ukraine talks have brightened the prospect of a ceasefire agreement and could pave the way for a deeper pullback in oil, an analyst said.",
+    "url": "https://markets.businessinsider.com/news/commodities/oil-price-today-russia-ukraine-negotiations-china-lockdown-shenzhen-demand-2022-3",
+    "urlToImage": "https://i.insider.com/62304820dc43bd0018946b6b?width=1200&format=jpeg",
+    "publishedAt": "2022-03-15T09:24:49Z",
+    "content": "Oil prices pulled back a second day to around $100 a barrel Tuesday after Russia and Ukraine looked set to continue diplomatic negotiations and as lockdowns in China threatened to dampen demand.\r\nBre… [+2740 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "gdean@insider.com (Grace Dean)",
+    "title": "McDonald's said it would close all its Russian restaurants – but some appear still open a week later",
+    "description": "McDonald's CEO Chris Kempczinski said on March 8 that the burger chain would temporarily close its 847 restaurants in Russia, without giving a date.",
+    "url": "https://www.businessinsider.com/mcdonalds-russian-restaurants-still-open-a-week-after-closure-announced-2022-3",
+    "urlToImage": "https://i.insider.com/62308193843ef30018e70e7a?width=1200&format=jpeg",
+    "publishedAt": "2022-03-15T12:51:36Z",
+    "content": "A week after McDonald's said that it would close all its Russian restaurants in condemnation of the country's invasion of Ukraine, some sites remain open, according to media reports.\r\nMcDonald's CEO … [+2829 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "mfox@businessinsider.com (Matthew Fox)",
+    "title": "Meme-stocks GameStop and AMC top 10 most talked about stocks on Reddit's WallStreetBets forum",
+    "description": "After gaining notoriety during the meme-stock craze, one data aggregator is compiling the most mentioned stocks on the WallStreetBets subreddit.",
+    "url": "https://markets.businessinsider.com/news/stocks/reddit-stocks-top-10-wallstreetbets-gamestop-amc-entertainment-most-mentioned-2022-3",
+    "urlToImage": "https://i.insider.com/61781729e100ad00181db798?width=1200&format=jpeg",
+    "publishedAt": "2022-03-15T16:16:58Z",
+    "content": "Following which stocks Reddit's WallStreetBets crowd is talking about was a tactic that paid off handsomely in 2021, as several have gone through epic rallies and heightened \r\nvolatility. \r\nFrom Game… [+3570 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Harvard Business Review"
+    },
+    "author": "John Glaser, Elizabeth Gardner",
+    "title": "Standardized APIs Could Finally Make It Easy to Exchange Health Records",
+    "description": "A U.S. law requires that the process be simplified by the end of 2022.",
+    "url": "https://hbr.org/2022/03/standardized-apis-could-finally-make-it-easy-to-exchange-health-records",
+    "urlToImage": "https://hbr.org/resources/images/article_assets/2022/03/Mar22_15_160482331.jpg",
+    "publishedAt": "2022-03-15T13:00:00Z",
+    "content": "A U.S. law requires that the process be simplified by the end of 2022.\r\n\"&gt;\r\nTrying to access personal medical information has been an intermittent annoyance for most people in the United States un… [+17239 chars]"
+  }
+]
+}
